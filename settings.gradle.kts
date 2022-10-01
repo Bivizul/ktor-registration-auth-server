@@ -1,0 +1,1 @@
+rootProject.name = "com.bivizul.ktor-auth-project"
